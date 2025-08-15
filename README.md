@@ -20,6 +20,8 @@ Finds optimal K via Elbow Method
 Plots clusters and centroids
 
 Calculates Silhouette Score for evaluation
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/e1f62f8c-934f-416d-a177-ad3382cb210a" />
+
 
 Example Outputs:
 Elbow Method:
