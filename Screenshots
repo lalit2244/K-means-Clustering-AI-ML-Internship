@@ -1,2 +1,25 @@
-screenshots
-elbow_plot.png
+Beginner-Friendly Version
+
+📸 elbow_plot.png
+
+📸 clusters_plot.png
+
+📸 silhouette_score.png
+
+Universal PCA Version
+
+📸 pca_elbow_plot.png
+
+📸 pca_clusters_plot.png
+
+Dual Metric K Selection
+
+📸 dual_metric_plot.png
+
+📸 dual_clusters_plot.png
+
+Fully Automatic K Selection
+
+📸 auto_k_plot.png
+
+📸 auto_k_clusters.png
