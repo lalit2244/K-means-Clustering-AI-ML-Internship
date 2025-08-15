@@ -25,6 +25,7 @@ Calculates Silhouette Score for evaluation
 
 Example Outputs:
 Elbow Method:
+https://github.com/lalit2244/K-means-Clustering-AI-ML-Internship/blob/c384cf27829119cf4b2207e2024310eb8e2eb409/pca_elbow_plot.png
 
 
 Clusters Plot:
