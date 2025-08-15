@@ -29,6 +29,7 @@ Elbow Method:
 
 
 Clusters Plot:
+https://github.com/lalit2244/K-means-Clustering-AI-ML-Internship/blob/6a4af793f81740d0e8e9832c256dea7dba27953c/auto_k_clusters.png
 
 
 Silhouette Score:
